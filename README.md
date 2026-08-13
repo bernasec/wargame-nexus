@@ -204,6 +204,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 - [DFIRmadness](https://dfirmadness.com)
 - [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) <img src="https://img.shields.io/badge/style-offline-lightgrey.svg"> <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
 - [Wargames BataMladen: Hogwarts](https://wargames.batamladen.com/challenges/hogwarts)
+- [Wargames BataMladen: Detective Kusto](https://wargames.batamladen.com/challenges/detective-kusto)
 
 ### Cloud
 
